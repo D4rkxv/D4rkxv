@@ -4,7 +4,7 @@
 
 ## 🌟 O mnie
 
-Cześć! Jestem Patryk, pasjonat UI/UX designu i programowania.Uwielbiam tworzyc nieszablonowe designy oraz aplikacje
+Cześć! Jestem Patryk, pasjonat UI/UX designu i programowania, z wielkim zamiłowaniem do języka C++.Uwielbiam tworzyc nieszablonowe designy oraz aplikacje
 
 - 🌍 Lokalizacja: Polska
 - 🌱 Obecnie uczę się: React/Vue
