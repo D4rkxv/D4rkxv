@@ -30,4 +30,4 @@ Cześć! Jestem **Patryk** znany jako D4rkxv, pasjonat nowych technologii , UI/U
 
 ## 🤝 Współpraca
 
-Jeśli masz jakieś pomysły na projekty lub
+Jeśli masz jakieś pomysły na projekty lub chcesz współpracować, nie wahaj się skontaktować! 😊
