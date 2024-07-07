@@ -2,7 +2,7 @@
 
 ## 🌟 O mnie
 
-Cześć! Jestem **Patryk** znany jako D4rkxv, pasjonat technologii i programowania z Polski. Pracuję jako [Twoje stanowisko] i uwielbiam tworzyć projekty open-source, które mogą pomóc innym deweloperom.
+Cześć! Jestem **Patryk** znany jako D4rkxv, pasjonat nowych technologii , UI/UX designu, i programowania z Polski.Uwielbiam tworzyć nieszablonowe designy oraz projekty
 
 - 🌍 Lokalizacja: Polska
 - 🌱 Obecnie uczę się: **React** i **Vue.js** 🚀
