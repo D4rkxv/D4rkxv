@@ -1,7 +1,5 @@
 # 👋 Witaj na moim profilu GitHub!
 
-![Profile Banner](link-do-banner.png)
-
 ## 🌟 O mnie
 
 Cześć! Jestem Patryk, pasjonat UI/UX designu i programowania, z wielkim zamiłowaniem do języka C++.Uwielbiam tworzyc nieszablonowe designy oraz aplikacje
