@@ -12,8 +12,8 @@ Cześć! Jestem Patryk, pasjonat UI/UX designu i programowania.Uwielbiam tworzyc
 
 ## 📈 Statystyki GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=twoje-nazwa-uzytkownika&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoje-nazwa-uzytkownika&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4rkxv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkxv&layout=compact&theme=radical)
 
 Dziękuję za odwiedzenie mojego profilu! 🌟
 
