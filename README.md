@@ -2,12 +2,11 @@
 
 ## 🌟 O mnie
 
-Cześć! Jestem **Patryk**, pasjonat technologii i programowania z Polski. Pracuję jako [Twoje stanowisko] i uwielbiam tworzyć projekty open-source, które mogą pomóc innym deweloperom.
+Cześć! Jestem **Patryk** znany jako D4rkxv, pasjonat technologii i programowania z Polski. Pracuję jako [Twoje stanowisko] i uwielbiam tworzyć projekty open-source, które mogą pomóc innym deweloperom.
 
-- 🌍 Lokalizacja: Polska 🇵🇱
-- 💼 Pracuję w: [Nazwa Firmy/Organizacji]
+- 🌍 Lokalizacja: Polska
 - 🌱 Obecnie uczę się: **React** i **Vue.js** 🚀
-- 💬 Zapraszam do kontaktu: [Twój e-mail/link do LinkedIn]
+- 💬 Zapraszam do kontaktu: patrykmalczyk11@gmail.com
 
 ## 💻 Technologie i Języki
 
