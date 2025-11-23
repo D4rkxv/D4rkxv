@@ -16,7 +16,8 @@ I enjoy systems programming, performance-oriented design and well-structured arc
 ## 📁 Current Work
 - Building small tools and systems in C++  
 - Experimenting with game engine concepts  
-- Implementing algorithms & learning deeper internals  
+- Implementing algorithms & learning deeper internals
+- Making advanced human motion detection
 
 ---
 
