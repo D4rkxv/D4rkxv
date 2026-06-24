@@ -7,6 +7,8 @@ and solving problems that actually matter.
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/D4rkxv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-malczyk-6524ba340/?locale=pl-PL)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/@d4rkxv)
 
 ---
 
@@ -21,8 +23,10 @@ and solving problems that actually matter.
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23ea7600.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
