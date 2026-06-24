@@ -1,32 +1,28 @@
-# Patryk — C++ Developer
-
-Focused on writing clean, efficient and reliable C++ code.  
-I enjoy systems programming, performance-oriented design and well-structured architecture.
-
----
-
-## 🛠 Tech I Use
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+# 💫 About Me:
+Hi, I'm Patryk — a full-stack developer from Poland.<br>
+I spend most of my time building web apps, integrating AI into real products,<br>
+and solving problems that actually matter.
 
 ---
 
-## 📁 Current Work
-- Building small tools and systems in C++  
-- Experimenting with game engine concepts  
-- Implementing algorithms & learning deeper internals
-- Making advanced human motion detection
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/D4rkxv)
 
 ---
 
-## 🎯 Interests
-- C++ performance  
-- Low-level design  
-- Clean architecture  
+## 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📫 Contact
-Feel free to reach out if you want to collaborate or discuss C++.
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
