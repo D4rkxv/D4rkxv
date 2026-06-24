@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Patryk — a full-stack developer from Poland.<br>
 I spend most of my time building web apps, integrating AI into real products,<br>
-and solving problems that actually matter.
+and solving problems that actually matter. I also do a bit of C++ and Java on the side.
 
 ---
 
@@ -25,6 +25,8 @@ and solving problems that actually matter.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23ea7600.svg?style=for-the-badge&logo=blender&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
